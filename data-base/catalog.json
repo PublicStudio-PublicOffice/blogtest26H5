@@ -32,7 +32,24 @@
       "category": "电工基础", 
       "mdPath": "/data-base/article/4/content.md",
       "cover": "/data-base/article/4/cover.jpg"
+    },
+    { 
+      "title": "三极管的基本概念", 
+      "subtitle": "关于三极管的初步认识", 
+      "date": "2026-08-14", 
+      "category": "电子技术", 
+      "mdPath": "/data-base/article/5/content.md",
+      "cover": "/data-base/article/5/cover.jpg"
+    },
+    { 
+      "title": "三极管的工作电压和基本连接方式", 
+      "subtitle": "关于三极管的应用的初步了解", 
+      "date": "2026-08-14", 
+      "category": "电子技术", 
+      "mdPath": "/data-base/article/6/content.md",
+      "cover": "/data-base/article/6/cover.jpg"
     }
+
   ],
 
   "music": [
