@@ -48,6 +48,14 @@
       "category": "电子技术", 
       "mdPath": "/data-base/article/6/content.md",
       "cover": "/data-base/article/6/cover.jpg"
+    },
+    { 
+      "title": "电源有载工作", 
+      "subtitle": "电源有载工作的概念和应用", 
+      "date": "2026-08-17", 
+      "category": "电工基础", 
+      "mdPath": "/data-base/article/8/content.md",
+      "cover": "/data-base/article/8/cover.jpg"
     }
 
   ],
