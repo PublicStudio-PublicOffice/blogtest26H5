@@ -43,11 +43,19 @@
     },
     { 
       "title": "三极管的工作电压和基本连接方式", 
-      "subtitle": "关于三极管的应用的初步了解", 
-      "date": "2026-08-14", 
+      "subtitle": "关于三极管的应用的初步了解1", 
+      "date": "2026-08-15", 
       "category": "电子技术", 
       "mdPath": "/data-base/article/6/content.md",
       "cover": "/data-base/article/6/cover.jpg"
+    },
+    { 
+      "title": "三极管的分配和放大作用", 
+      "subtitle": "关于三极管的应用的初步了解2", 
+      "date": "2026-08-16", 
+      "category": "电子技术", 
+      "mdPath": "/data-base/article/7/content.md",
+      "cover": "/data-base/article/7/cover.jpg"
     },
     { 
       "title": "电源有载工作", 
@@ -56,6 +64,14 @@
       "category": "电工基础", 
       "mdPath": "/data-base/article/8/content.md",
       "cover": "/data-base/article/8/cover.jpg"
+    },
+    { 
+      "title": "电路图的识读基础", 
+      "subtitle": "电路图的识读基础--CA6140车床电气控制线路原理图举例", 
+      "date": "2026-08-18", 
+      "category": "工厂电气", 
+      "mdPath": "/data-base/article/9/content.md",
+      "cover": "/data-base/article/9/cover.jpg"
     }
 
   ],
